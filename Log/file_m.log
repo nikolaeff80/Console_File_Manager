@@ -1,0 +1,47 @@
+2020-08-03 14:30:21,767 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,767 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat', 'test text'), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,767 INFO log_decorator.py Была вызвана функция create_folder c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,767 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,768 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,772 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,772 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,772 INFO log_decorator.py Была вызвана функция copy_file c параметрами ('test.dat', 'new_test.dat'), {}. Вызов из модуля __main__
+2020-08-03 14:30:21,772 INFO log_decorator.py Была вызвана функция copy_file c параметрами ('test_folder 1', 'new_test_folder 1'), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,658 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,659 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat', 'test text'), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,659 INFO log_decorator.py Была вызвана функция create_folder c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,659 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,659 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,660 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,660 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,660 INFO log_decorator.py Была вызвана функция copy_file c параметрами ('test.dat', 'new_test.dat'), {}. Вызов из модуля __main__
+2020-08-03 14:30:37,660 INFO log_decorator.py Была вызвана функция copy_file c параметрами ('test_folder 1', 'new_test_folder 1'), {}. Вызов из модуля __main__
+2020-08-03 14:43:01,084 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля core
+2020-08-03 14:43:05,220 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля core
+2020-08-03 15:04:07,878 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test',), {}. Вызов из модуля core
+2020-08-03 15:04:41,163 INFO log_decorator.py Была вызвана функция copy_file c параметрами ('test', 'test1'), {}. Вызов из модуля core
+2020-08-03 15:06:15,921 INFO core.py Смена рабочей директории на C:\Users\User_PC\PycharmProjects\File Manager\Log
+2020-08-03 15:06:15,922 INFO log_decorator.py Была вызвана функция change_dir c параметрами ('Log',), {}. Вызов из модуля core
+2020-08-03 15:08:35,052 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test',), {}. Вызов из модуля core
+2020-08-03 15:08:52,983 INFO core.py Смена рабочей директории на C:\Users\User_PC\PycharmProjects\File Manager\Log
+2020-08-03 15:08:52,983 INFO log_decorator.py Была вызвана функция change_dir c параметрами ('Log',), {}. Вызов из модуля core
+2020-08-03 15:09:01,777 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test',), {}. Вызов из модуля core
+2020-08-03 15:10:19,029 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля core
+2020-08-03 15:10:35,271 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля core
+2020-08-03 15:11:09,443 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля core
+2020-08-03 15:12:01,061 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля core
+2020-08-03 15:12:03,632 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля core
+2020-08-03 18:52:06,928 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,929 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat', 'test text'), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,929 INFO log_decorator.py Была вызвана функция create_folder c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,929 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,929 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,930 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 18:52:06,930 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,905 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,905 INFO log_decorator.py Была вызвана функция create_file c параметрами ('test.dat', 'test text'), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,906 INFO log_decorator.py Была вызвана функция create_folder c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,906 INFO log_decorator.py Была вызвана функция get_list c параметрами (), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,906 INFO log_decorator.py Была вызвана функция get_list c параметрами (True,), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,906 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test.dat',), {}. Вызов из модуля __main__
+2020-08-03 18:56:23,907 INFO log_decorator.py Была вызвана функция delete_file c параметрами ('test_folder 1',), {}. Вызов из модуля __main__
